@@ -17,12 +17,6 @@ To provide airline stakeholders with data-driven insights on operational perform
 
 - Power BI
 
-## ✅ Key Insights
-
-- Q3 (July–September) showed the highest delay frequency
-- Western region airports reported the most cancellations
-- Morning flights consistently had better on-time performance
-
 ## 📁 File Included
 
 - `Airline_Dashboard.pbix` – Interactive Power BI dashboard file
